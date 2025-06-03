@@ -1,6 +1,6 @@
 # EXPERIMENT--01-ALP-FOR-8086
-## Name: KISHORE NARAYANAN S R
-## Roll no : 212223110023
+## Name: Ashwina K N
+## Roll no : 212223230025
 ## Date of experiment : 10.03.25
 
 ## Aim: To Write and execute ALP on fundamental arithmetic and logical operations
